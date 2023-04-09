@@ -1,0 +1,19 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: Stable Micromobility
+  logo: static/logo/stable-logo-280.png
+  label: Docs
+  colors:
+    label:                  # Label colors
+      text: "#ffffff"       # Custom color for the label text.
+      background: "#29ab87" # Custom color for the label background.
+links:
+- text: Getting Started
+  link: https://retype.com/guides/getting-started/
+footer:
+  copyright: "&copy; Copyright Stable Micromobility, LLC {{ year }}. All rights reserved."
+
+favicon: static/logo/stable-logo-40.png # Path to a custom favicon, or.
+                                        # just put a favicon.ico in your project root.
