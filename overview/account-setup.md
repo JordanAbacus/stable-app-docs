@@ -25,6 +25,10 @@ Second, if your vehicle happens to get stolen and you report that theft in the a
 
 We are committed to sharing this information with the community (provided it is sufficiently anonymous and doesn't jeopardize our users' privacy) to help micromobility riders make smarter decisions about where to not park, when not to leave your vehicle unattended, which locks to avoid, and which vehicles are popular among thieves. However, we will only be able to do this if you add a vehicle and lock to your account.
 
+!!!info Preserving Your Privacy
+Specific information about your vehicle and lock—such as photos and serial numbers—are kept private and **not** shared with other members of the community. We may aggregate data across many instances of theft and provide anonymized statistics to help the community better protect itself against theft, but identifiable information specific to you will never be made public without your consent.
+!!!
+
 
 ### Registering your vehicle
 
@@ -43,6 +47,14 @@ The form allows you to enter any vehicle make and model, but will offer autocomp
 ![](../static/screenshots/account-setup/add-vehicle-1.png)
 
 Once the vehicle type, make, and model are entered, hit "Continue". Then, optionally enter the vehicle's serial number and/or upload a photo of the vehicle. You can take the photo of your picture live, or upload a photo you've previously taken. 
+
+!!!warning Why should I enter my serial number?
+We strongly recommend that you enter your serial number. Providing the serial number of the vehicle is a requirement for most theft insurance claims and for filing police reports. The vehicle's serial number is rarely on a bill of sale or receipt, so inputting the vehicle's serial here may be your only permanent record of it.
+!!!
+
+!!! Using serial numbers to combat theft
+Registering your serial number can also help combat theft. As we build out anti-theft features into the app, we will enable users to cross-check serial numbers for vehicles they are considering purchasing to ensure that they are not buying a stolen vehicle, similar to [529 Garage](https://project529.com/garage) and [Bike Index](https://bikeindex.org). If your vehicle's serial number pops up in the app from a different user, we'll know that it's a stolen vehicle!
+!!!
 
 ![](../static/screenshots/account-setup/add-vehicle-2a.png)
 

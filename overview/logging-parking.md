@@ -16,6 +16,10 @@ Most theft insurance and theft reimbursement policies require that your vehicle 
 
 Photo evidence of proper lock-up, along with proof of when and where that lock-up occurred, is the best way to prove that you complied your policy's terms and conditions. The Stable App makes it easy to snap a quick picture of your locked-up vehicle, which stores a verifiable record that you can obtain in the event of a theft.
 
+!!!info Preserving Your Privacy
+The app will **NEVER** show when a user parks at a particular location to other users; your parking records are private and only accessible by you.
+!!!
+
 ## How to Log Parking
 
 Begin by navigating to the ![](../static/icons/icon-nav-log-parking.png) log parking page.

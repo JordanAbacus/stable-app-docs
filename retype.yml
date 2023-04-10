@@ -10,10 +10,21 @@ branding:
       text: "#ffffff"       # Custom color for the label text.
       background: "#29ab87" # Custom color for the label background.
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: Download for iOS
+  link: https://www.stablemobility.io
+- text: Download for Android
+  link: https://www.stablemobility.io
 footer:
   copyright: "&copy; Copyright Stable Micromobility, LLC {{ year }}. All rights reserved."
-
+  links:
+    - text: Privacy
+      link: legal/privacy-policy.md
+    - text: Terms
+      link: legal/terms-and-conditions.md
+integrations:
+  googleAnalytics:
+    id: G-1BH6E61G8N
+  googleTagManager:
+    id: G-1BH6E61G8N
 favicon: static/logo/stable-logo-40.png # Path to a custom favicon, or.
                                         # just put a favicon.ico in your project root.

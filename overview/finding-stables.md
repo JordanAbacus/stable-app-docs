@@ -31,10 +31,10 @@ If there are Stables near the location you searched, they will appear on the map
 To view detailed information about a Stable, tap on the icon on the map. Doing so will bring up a bottom sheet that lets you view:
 
 - photo(s) of the Stable, including a photo showing the security camera monitoring the spot if it is a Stable
-- [attributes](definitions/stable-attributes.md) of the Stable, such as whether it's bolted to the ground, well lit, and other information
+- [attributes](../definitions/attributes.md) of the Stable, such as whether it's bolted to the ground, well lit, and other information
 - when it was added
 - how far away it is from your current location
-- the display name of the user who added it (unless they have configured their account to remain anonymous under their [privacy settings](overview/privacy-settings.md))
+- the display name of the user who added it (unless they have configured their account to remain anonymous under their [privacy settings](privacy-settings.md))
 - whether there have any been any thefts reported at this location and, if so, when the last report was
 - a button to open the precise location of this Stable in your system's default maps application, such as Google Maps or Apple Maps.
 

@@ -27,4 +27,6 @@ Micromobility offers many benefits over automobility:
 - **Less energy consumed**: most PEVs fit the size of the rider and weigh well under 100 lbs.
 - **Cleaner air**: no tailpipe emissions!
 - **Lower CO2 emissions**: reduces the single biggest contributor to CO2 emissions: transportation
+- **Environmental immersion**: You experience the surrounding environment in a more connected way than in a car.
+- **More fun**: Riding through a city is just more fun on a micromobility vehicle!
 

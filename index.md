@@ -22,7 +22,7 @@ The Stable App is intended for all people who own their own micromobility vehicl
 
 The core features of the app are specifically geared toward riders who have theft insurance (such as [Velosurance](https://velosurance.com), [Simple Bike Insurance](https://simplebikeinsurance.com), or [Markel](https://www.markelinsurance.com/bicycle)) or some other kind of theft reimbursement policy, such as [Kryptonite's Anti-Theft Protection Offer (ATPO)](https://shop.kryptonitelock.com/atpo\_landing\_pages/register-for-anti-theft-en.html?origin=en.html).
 
-Even if you don't have theft coverage, we encourage all riders to use the app. As more people use it, we'll learn more about where thefts occur
+Even if you don't have theft coverage, we encourage all riders to use the app. As more people use it, we'll learn more about where thefts occur, which vehicles are most targeted, and which locks are most easily defeated—and are committed to sharing this info with you to help reduce the chances that you fall victim to theft.
 
 ## Finding and Mapping Parking Spots
 
@@ -30,7 +30,7 @@ The Stable App allows users to **find** and **map** parking spots for bicycles, 
 
 ### Adding Unmapped Parking Spots
 
-If a user finds a parking spot—such as a bike rack, traffic sign, or other immovable object—they can choose to add that parking spot to the map by [Mapping a Stable](overview/mapping-stables.md). Over time, this community-driven effort will build out a map of parking spots to help other riders in their neighborhood or city find parking that meets their needs.
+If a user finds a parking spot—such as a bike rack or other immovable object—they can choose to add that parking spot to the map by [Mapping a Stable](overview/mapping-stables.md). Over time, this community-driven effort will build out a map of parking spots to help other riders in their neighborhood or city find parking that meets their needs.
 
 ### Finding Mapped Parking Spots
 
@@ -52,7 +52,15 @@ Video footage is the best proof you can get that you properly locked up your veh
 
 In addition to helping riders find camera-monitored parking spots (Stables), the app also provides a painless way to [Log Parking](overview/logging-parking.md), which can be useful to prove that your vehicle was properly locked up prior to a theft occurring.
 
-To log parking, the rider can open the Log Parking page and quickly snap a photo of your locked-up vehicle before walking away from it. The app securely stores a record of the parking—including the photo, the location, and the current date and time—that can be referred to later, if necessary.
+To log parking, the rider can open the Log Parking page and quickly snap a photo of your locked-up vehicle before walking away from it. The app securely stores a record of the parking, including:
+
+- the photo of your locked-up vehicle
+- its location
+- the current date and time
+- info about the registered vehicle, including a photo of the vehicle and its serial number (if you chose to register them)
+- the registered lock
+
+In the event of a theft, you can easily obtain this information by having the parking record emailed to yourself, or by emailing us at records@stablemobility.io
 
 ### Why should I log parking?
 
