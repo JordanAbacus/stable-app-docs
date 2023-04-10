@@ -8,7 +8,7 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.734477981026">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.734479984507">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
@@ -36,11 +36,11 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../static/logo/stable-logo-40.png" rel="icon" />
-    <link href="../../resources/css/retype.css?v=2.4.0.734477981026" rel="stylesheet" />
+    <link href="../../resources/css/retype.css?v=2.4.0.734479984507" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.734477981026" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.734479984507" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.734477981026" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.734479984507" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=G-1BH6E61G8N" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -190,6 +190,55 @@
         <span>Attributes</span>
     </h1>
 </doc-anchor-target>
+<p><strong>Attributes</strong> are details about Posts or Stables that are useful to help others find suitable parking.</p>
+<p>Currently, the following attributes are supported:</p>
+<ul>
+<li><strong>Covered</strong>: protected from rain/precipitation</li>
+<li><strong>Bike Rack</strong>: is this a bike rack (designed specifically for small vehicle parking)?</li>
+<li><strong>Thick</strong>: if it&#x27;s too thick for a typical U-Lock, then it&#x27;s considered thick (i.e., only useful for cable or chain locks).</li>
+<li><strong>Well Lit</strong>: At night, is this spot under or near a light?</li>
+<li><strong>Bolted to the Ground</strong>: Is the object cemented or bolted to the ground, or free-standing/movable?</li>
+</ul>
+<doc-anchor-target id="covered">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#covered">#</doc-anchor-trigger>
+        <span>Covered</span>
+    </h2>
+</doc-anchor-target>
+<p>If a spot is <strong>covered</strong>, then it is protected from the elements. If it rains and it is possible or reasonably likely that a vehicle parked at the spot would get wet, then it is NOT covered.</p>
+<p>This attribute is important for people who have PEVs with poor or no IP rating and want to avoid getting their vehicle wet.</p>
+<doc-anchor-target id="bike-rack">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#bike-rack">#</doc-anchor-trigger>
+        <span>Bike Rack</span>
+    </h2>
+</doc-anchor-target>
+<p>Is this spot a bike rack or similar object specifically designed for bike and PEV parking? If so, then it is a bike rack. Fences, poles, lamp posts, and other objects are not bike racks.</p>
+<p>This attribute is relevant if your city has banned locking up to objects other than bike racks.</p>
+<doc-anchor-target id="thick-object">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#thick-object">#</doc-anchor-trigger>
+        <span>Thick Object</span>
+    </h2>
+</doc-anchor-target>
+<p>Can you fit a typical U-lock around the object? If not, then the object is <strong>thick</strong>.</p>
+<p>Many people prefer U-locks for their durability, and many theft protection policies require U-locks for insurance purposes. Thus, thicker objects like pipes and some sign posts are not suitable for those users.</p>
+<doc-anchor-target id="well-lit">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#well-lit">#</doc-anchor-trigger>
+        <span>Well Lit</span>
+    </h2>
+</doc-anchor-target>
+<p>At night, is this spot illuminated by a nearby lamp or light? If yes, then it&#x27;s well lit. We realize that this determination is somewhat subjective, so please use your best judgment.</p>
+<p>We expect this attribute may be relevant in predicting the likelihood of theft—our hypothesis being that poorly lit spots are targeted more often than well-lit spots because it is easier for a thief to hide their activity in darkness.</p>
+<doc-anchor-target id="bolted-to-the-ground">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#bolted-to-the-ground">#</doc-anchor-trigger>
+        <span>Bolted to the ground</span>
+    </h2>
+</doc-anchor-target>
+<p>Is the object permanently fixed to the ground, either via cement, bolts, etc.? If so, then it&#x27;s &quot;bolted&quot; to the ground. Bike racks that are cemented into a sidewalk or partially buried into the ground counts as &quot;bolted to the ground.&quot;</p>
+<p>This attribute is relevant to some policies that require that the object that you lock to be &quot;immovable.&quot; Even though some free-standing bike racks are very large and difficult to move, we know that some insurers will find any way possible to get out of paying a claim. If your policy requires that your vehicle be locked to an immovable object, stick to spots that are bolted to the ground!</p>
 
                                 
                                 <!-- Required only on API pages -->
