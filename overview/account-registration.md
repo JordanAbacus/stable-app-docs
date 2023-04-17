@@ -6,7 +6,7 @@ order: 79
 
 # Account Registration
 
-To create your account, first download the Stable App for iOS or Android (_not yet published_).
+To create your account, first download the Stable App for iOS (open beta on [TestFlight](https://testflight.apple.com/join/QAQbQUpP)) or Android (open beta on [Google Play Store](https://play.google.com/store/apps/details?id=com.stablemobility.stableapp)).
 
 You should now see the splash screen.
 

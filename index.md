@@ -8,6 +8,9 @@ order: 99
 
 The Stable App is a mobile app for iOS and Android that helps micromobility vehicle owners **find secure parking** and **streamline the process of gathering evidence** to make theft insurance claims.
 
+[![](static/buttons/google-play-button.png)](https://play.google.com/store/apps/details?id=com.stablemobility.stableapp) [![](static/buttons/testflight-button.png)](https://testflight.apple.com/join/QAQbQUpP)
+
+
 ||| Home Page
 ![](static/screenshots/intro/home-page.png)
 ||| Find a Stable

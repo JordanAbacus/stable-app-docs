@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: https://docs.stablemobility.io
 branding:
   title: Stable Micromobility
   logo: static/logo/stable-logo-280.png
@@ -10,10 +10,10 @@ branding:
       text: "#ffffff"       # Custom color for the label text.
       background: "#29ab87" # Custom color for the label background.
 links:
-- text: Download for iOS
-  link: https://www.stablemobility.io
-- text: Download for Android
-  link: https://www.stablemobility.io
+- text: Join Open Beta (Android)
+  link: https://play.google.com/store/apps/details?id=com.stablemobility.stableapp
+- text: Join Open Beta (iOS TestFlight)
+  link: https://testflight.apple.com/join/QAQbQUpP
 footer:
   copyright: "&copy; Copyright Stable Micromobility, LLC {{ year }}. All rights reserved."
   links:

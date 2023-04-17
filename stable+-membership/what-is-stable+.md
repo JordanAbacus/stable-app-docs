@@ -5,7 +5,7 @@ icon: plus-circle
 
 # What is Stable+?
 
-Stable+ is the "pro" membership within the Stable App. Stable+ Members have access to the ![](../static/icon/icon-nav-map-view.png) map view, which allows them to look for Stables that they and others have mapped.
+Stable+ is the "pro" membership within the Stable App. Stable+ Members have access to the ![](../static/icons/icon-nav-map-view.png) map view, which allows them to look for Stables that they and others have mapped.
 
 ## Stable+ Trial
 

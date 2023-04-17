@@ -10,7 +10,7 @@ order: 74
 
 **Points** represent *how much you've contributed* to the community. Points cannot be spent, and therefore only ever accumulate. As you use the app, your points will increase.
 
-In the future, we may give special privileges or benefits to users that have at least some threshold amount of points or have reached a specific [rank](#rank).
+In the future, we may give special privileges or benefits to users that have at least some threshold amount of points or have reached a specific [rank](#ranks).
 
 ## Tokens
 
@@ -33,7 +33,7 @@ It costs us money to operate the service, so feel free to buy some tokens as a *
 We strongly prefer that users log parking and map Stables to earn tokens, rather than buying them. Your activity in the app is what will ultimately help others better understand how to guard against theft.
 !!!
 
-In the future, we may give special privileges or benefits to users that have at least some threshold amount of points or have reached a specific [rank](#rank).
+In the future, we may give special privileges or benefits to users that have at least some threshold amount of points or have reached a specific [rank](#ranks).
 
 
 ## Ranks
@@ -53,20 +53,23 @@ Hero         | 300-999 pts  | You're a seasoned veteran—someone who walks the 
 
 ## Current Points and Tokens Awards
 
-Here are the current points and tokens awards for various actions within the app:
+Here are the planned points and tokens awards for various actions within the app:
 
 Action | Points Awarded | Tokens Awarded
 ------ | -------------- | --------------
-Map a Post | 1 | 1
-Map a Stable | 5 | 5
-Verify your Account | 10 | 10
-Log Parking (1st time this month)| 10 | 10
-Log Parking (2nd time this month)| 8 | 8
-Log Parking (3rd time this month)| 6 | 6
-Log Parking (4th time this month)| 4 | 4
-Log Parking (5th time this month)| 2 | 2
+~Map a Post | 1 | 1
+~Map a Stable | 5 | 5
+~Verify your Account | 10 | 10
+Log Parking (1st time this month)| 1 | 10
+Log Parking (2nd time this month)| 1 | 8
+Log Parking (3rd time this month)| 1 | 6
+Log Parking (4th time this month)| 1 | 4
+Log Parking (5th time this month)| 1 | 2
 Log Parking (6th+ time this month)| 1 | 1
 
+!!!warning
+Only Actions with the **~** preceding them have been implemented as of the current open beta release v0.4.5.1. If you log parking and want your tokens, just drop us a note at support@stablemobility.io and we'll manually update your account with the tokens. Thanks for your patience as we continue to build out the app!
+!!!
 
 We hope that these token awards make it easy enough for most users to earn at least 30 tokens a month through normal use of the app. Here are a few scenarios to illustrate:
 

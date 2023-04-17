@@ -1,7 +1,7 @@
 ---
 description: terms and conditions
 icon: log
-order: 28
+order: 18
 ---
 
 

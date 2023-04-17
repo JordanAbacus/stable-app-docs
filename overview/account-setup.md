@@ -103,7 +103,7 @@ If everything looks good, press "Submit". Doing so will register this lock to yo
 If you enter in a new lock brand or model, we may review your submission, correct any spelling mistakes or differences in the brand or model name with the manufacturer's description, and add the lock's brand and/or model name to the autocomplete options for future users. Don't be alarmed if you see a slight change to the lock info on your account!
 !!!
 
-**Congratulations**! Your account is ready to start logging parking! If you navigate to the ![](../.gitbook/assets/icon-nav-log-parking.png) log parking page, you should now see that you are able access the feature. 
+**Congratulations**! Your account is ready to start logging parking! If you navigate to the ![](../static/icons/icon-nav-log-parking.png) log parking page, you should now see that you are able access the feature. 
 
 ![](../static/screenshots/account-setup/manage-locks-first.png)
 

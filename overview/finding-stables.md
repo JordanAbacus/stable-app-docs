@@ -9,12 +9,12 @@ order: 76
 To look for [Posts](../definitions/post.md) and [Stables](../definitions/stable.md), begin by opening the ![](../static/icons/icon-nav-map-view.png) map view. Stables and Posts are denoted by icons on the map, which you can find by manually moving the map, or by entering in your destination into the place picker and pressing "Go".
 
 !!!warning
-The map view is a premium feature that is only available for [Stable+ Members](stable+-membership/what-is-stable+.md). This is because we don't want members who don't contribute to the community to benefit from those that helped to populate the map of Posts and Stables. If you disagree with this decision, we welcome your feedback and invite you to make a new post on our [discussion board](https://stable.hellonext.co/b/general-feedback) or to discuss on our [Discord](https://discord.gg/sVQ8yfA8yB) server.
+The map view is a premium feature that is only available for [Stable+ Members](../stable+-membership/what-is-stable+.md). This is because we don't want members who don't contribute to the community to benefit from those that helped to populate the map of Posts and Stables. If you disagree with this decision, we welcome your feedback and invite you to make a new post on our [discussion board](https://stable.hellonext.co/b/general-feedback) or to discuss on our [Discord](https://discord.gg/sVQ8yfA8yB) server.
 !!!
 
 ## How to Find Stables
 
-Begin by navigating to the ![](../static/logo/icon-nav-map-view.png) map page. To search for a Stable in a specific location, type the location into the place picker (the "Find Parking Near" input field) at the top left as you would on Google Maps, and press Go. The map will automatically jump to the location you input and will show if there are any Stables in that area.
+Begin by navigating to the ![](../static/icons/icon-nav-map-view.png) map page. To search for a Stable in a specific location, type the location into the place picker (the "Find Parking Near" input field) at the top left as you would on Google Maps, and press Go. The map will automatically jump to the location you input and will show if there are any Stables in that area.
 
 ![](../static/screenshots/finding-stables/find-a-stable-0.png)
 

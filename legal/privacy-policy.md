@@ -1,7 +1,7 @@
 ---
 description: privacy policy
 icon: repo-locked
-order: 29
+order: 19
 ---
 
 
