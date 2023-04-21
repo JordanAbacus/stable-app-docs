@@ -16,6 +16,8 @@ You can check your app's version number at the bottom of the Accounts and Settin
 
 ### v0.4.6.1
 
+[![](../static/buttons/google-play-button.png)](https://play.google.com/store/apps/details?id=com.stablemobility.stableapp) [![](../static/buttons/testflight-button.png)](https://testflight.apple.com/join/QAQbQUpP)
+
 This update comes with some quick fixes and improvements based on initial feedback from early adopters. Thank you so much for being a part of the open beta testing!
 
 #### New Features :new:
