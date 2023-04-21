@@ -1,7 +1,7 @@
 ---
 description: Signing up for an account in the Stable App
 icon: person-add
-order: 79
+order: 89
 ---
 
 # Account Registration

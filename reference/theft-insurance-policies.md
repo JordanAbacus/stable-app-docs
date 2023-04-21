@@ -1,7 +1,7 @@
 ---
 description: What do theft insurance policies cover?
 icon: list-unordered
-order: 29
+order: 28
 ---
 
 # Theft Insurance Policies

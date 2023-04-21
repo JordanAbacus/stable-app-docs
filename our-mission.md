@@ -1,7 +1,7 @@
 ---
 description: Why we are building this app, and why you should get involved
 icon: code-of-conduct
-order: 80
+order: 98
 ---
 
 # Our Mission
