@@ -10,9 +10,9 @@ branding:
       text: "#ffffff"       # Custom color for the label text.
       background: "#29ab87" # Custom color for the label background.
 links:
-- text: Join Open Beta (Android)
+- text: Android App
   link: https://play.google.com/store/apps/details?id=com.stablemobility.stableapp
-- text: Join Open Beta (iOS TestFlight)
+- text: iOS App
   link: https://testflight.apple.com/join/QAQbQUpP
 footer:
   copyright: "&copy; Copyright Stable Micromobility, LLC {{ year }}. All rights reserved."

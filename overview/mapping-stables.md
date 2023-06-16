@@ -1,7 +1,7 @@
 ---
 description: How and why should one map Stables?
 icon: location
-order: 85
+order: 185
 ---
 
 # Mapping Stables

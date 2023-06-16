@@ -1,7 +1,7 @@
 ---
 description: How can I invite my friends?
 icon: share
-order: 82
+order: 182
 ---
 
 # Invite Friends

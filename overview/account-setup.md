@@ -1,7 +1,7 @@
 ---
 description: Register a vehicle and a lock to get started
 icon: id-badge
-order: 88
+order: 188
 ---
 
 # Account Setup

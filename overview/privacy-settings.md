@@ -1,7 +1,7 @@
 ---
 description: How can I control my privacy?
 icon: eye-closed
-order: 83
+order: 183
 ---
 
 # Privacy Settings
