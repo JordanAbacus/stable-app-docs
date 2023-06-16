@@ -7,7 +7,7 @@ order: 171
 # StableCare Terms & Conditions
 
 !!!info
-_These terms and conditions for StableCare Membership (“Terms and Conditions”) apply to all StableCare Members who purchased a StableCare Membership on or after June 15, 2023._
+_These terms and conditions for StableCare Membership (“Terms and Conditions”) apply to all StableCare Members who purchased a StableCare Membership on or after June 16, 2023._
 !!!
 
 
@@ -100,6 +100,88 @@ As we continue to build out our database of locks, our system may not automatica
 **NOTE** that if a lock you register is not found in our database, we will not be able to automatically determine your eligibility for StableCare, and therefore you will only be able to get a mock quote until your account has at least one StableCare-eligible lock registered thereto.
 !!!
 
+## StableCare Tiers and Fee Structure
+
+There are three different StableCare Tiers that each have different impacts on fees and requirements, which are described in more detail below.
+
+
+### StableCare Gold
+
+**Options:** StableCare Gold is available as an Annual or Seasonal Membership.
+
+**Annual Memberships** are available for riders who want coverage year-round. Coverage begins on the date of purchase and ends one (1) year later.
+
+**Seasonal Memberships** are charged for riders who want coverage during the riding season, which is from April 1 to November 1, but don’t ride during the colder winter months. Riding season is statistically when most thefts happen, so coverage is important for riders who are worried about theft during the season. Although most thefts occur during riding season, we still offer a discount for Seasonal Memberships compared to the price for an annual membership.
+
+Seasonal Memberships extend from April 1 to November 1 (the “riding season”).  Seasonal Memberships purchased prior to April 1 of a given year begin on April 1 of that year.  Seasonal Memberships can also be purchased mid-season between April 1 and November 1 begin on the date of purchase and expire on the following November 1.  Seasonal Memberships purchased between November 1 and December 31 of a given year will begin on April 1 of the next calendar year.  Seasonal Memberships purchased “mid-season” (between April 1 and November 1) receive a mid-season, pro-rated discount.
+
+**One-time payments:** As of the date of these Terms, both Annual and Seasonal Memberships are offered as one-time purchases (_i.e._, <span style="text-decoration:underline;">not</span> subscriptions), with a variety of payment options available (subject to change from time to time).  Members can optionally purchase their Membership using Klarna or Affirm at checkout to pay for their StableCare Membership in installments.
+
+**Cybersecurity and Privacy:** In the interest of cybersecurity best practices and user privacy, Stable does not store any payment information in our systems.
+
+**Membership Dividends:** From time-to-time, or at the end of a Membership cycle, StableCare Gold Members may receive a partial refund of their Membership fee, which we refer to as the “Membership Dividend.”  If Members take precautionary measures to reduce their risk of theft, and therefore fewer theft claims are filed than expected, Company commits to returning excess profits to the Members in the form of this Membership Dividend.  Company reserves the right to determine the appropriate mechanism for distributing any Membership Dividends to the members, which may include one or more of the following: partial refunds back to each Members’ original payment method, Visa gift cards, Amazon gift cards, and/or other discounts toward a future StableCare Membership and/or other Stable products and services.  Members are not entitled to the Membership Dividend, nor should they reasonably expect to receive it; the Membership Dividend is offered at Company’s sole discretion, consistent with our mission to encourage micromobility vehicle owners to replace car trips with micromobility trips.
+
+**Refunds on Canceled Memberships:** Stable will have discretionary authority to refund or send a pro-rata partial refund for StableCare Membership if a Member needs to cancel their membership on good terms with Stable. If a Member’s Membership is terminated for violating these Terms (_e.g._, for submitting a fraudulent theft claim), Company reserves the right to cancel their Membership without a refund and ban the offending user from the Stable App.
+
+**Lock Requirement:** To be eligible for StableCare Gold, you must own and register an anchor lock that meets a minimum standard of Sold Secure Pedal Cycle Gold, Sold Secure Pedal Cycle Diamond, or Sold Secure Power Cycle Gold lock. To see our approved list of locks, [click here](https://stablemobility.io/locks).
+
+Company may deem individual locks as either eligible or ineligible on a case-by-case basis.
+
+**Start Date:** StableCare Gold Memberships begin on the date of purchase, effective immediately after payment is completed.  The start and end dates of your StableCare Membership can be viewed within the Stable App. Some Membership benefits, such as the ability to submit reviewable theft claims, does not begin until all outstanding “Membership Incomplete” action items are completed.
+
+
+### StableCare Diamond
+
+**Options:** StableCare Diamond is available as an Annual or Seasonal Membership.
+
+**Annual Memberships** are available for riders who want coverage year-round. Coverage begins on the date of purchase and ends one (1) year later.
+
+**Seasonal Memberships** are charged for riders who want coverage during the riding season, which is from April 1 to November 1, but don’t ride during the colder winter months. Riding season is statistically when most thefts happen, so coverage is important for riders who are worried about theft during the season. Although most thefts occur during riding season, we still offer a discount for Seasonal Memberships compared to the price for an annual membership.
+
+Seasonal Memberships extend from April 1 to November 1 (the “riding season”).  Seasonal Memberships purchased prior to April 1 of a given year begin on April 1 of that year.  Seasonal Memberships can also be purchased mid-season between April 1 and November 1 begin on the date of purchase and expire on the following November 1.  Seasonal Memberships purchased between November 1 and December 31 of a given year will begin on April 1 of the next calendar year.  Seasonal Memberships purchased “mid-season” (between April 1 and November 1) receive a mid-season, pro-rated discount.
+
+**One-time payments:** As of the date of these Terms, both Annual and Seasonal Memberships are offered as one-time purchases (_i.e._, <span style="text-decoration:underline;">not</span> subscriptions), with a variety of payment options available (subject to change from time to time).  Members can optionally purchase their Membership using Klarna or Affirm at checkout to pay for their StableCare Membership in installments.
+
+**Cybersecurity and Privacy:** In the interest of cybersecurity best practices and user privacy, Stable does not store any payment information in our systems.
+
+**Membership Dividends:** From time-to-time, or at the end of the Membership cycle, StableCare Diamond Members may receive a partial refund of their Membership fee, referred to as the Membership Dividend. If Members take precautionary measures to reduce their risk of theft, and therefore fewer theft claims are filed than expected, Company commits to returning excess profits to the Members in the form of this Membership Dividend. Company reserves the right to determine the appropriate mechanism for distributing any Membership Dividends to the Members, which may include one or more of the followingL partial refunds back to each Member’s original payment method, Visa gift cards, Amazon gift cards, and/or other discounts toward a future StableCare Membership and/or other Stable products and services. Members are not entitled to the Membership Dividend, nor should they reasonably expect to receive it; the Membership Dividend is offered at Company’s sole discretion, consistent with our mission to encourage micromobility vehicle owners to replace car trips with micromobility trips.
+
+**Refunds on Canceled Memberships:** Stable will have discretionary authority to refund or send a pro-rata partial refund for StableCare Membership if a Member needs to cancel their membership on good terms with Stable. If a Member’s Membership is terminated for violating these Terms (_e.g._, for submitting a fraudulent theft claim), Company reserves the right to cancel their Membership without a refund and ban the offending user from the Stable App.
+
+**Lock Requirement:** To be eligible for StableCare Diamond, you must own and register an anchor lock that meets a minimum standard of Sold Secure Power Cycle Diamond. To see our approved list of locks, [click here](https://stablemobility.io/locks).
+
+
+
+* **Alchemy**- A member may also become eligible for StableCare Diamond with a combination of two or more locks that are eligible for StableCare Gold. Each lock must be registered in the app and applied to our quoting engine to unlock Diamond membership.
+
+**Start Date:** StableCare Diamond Memberships begin on the date of purchase, effective immediately after payment is completed.  The start and end dates of your StableCare Membership can be viewed within the Stable App. Some Membership benefits, such as the ability to submit reviewable theft claims, does not begin until all outstanding “Membership Incomplete” action items are completed.
+
+
+### StableCare Steel
+
+**Membership:** StableCare Steel Membership is an option for riders that infrequently park their Micromobility Vehicle outside, but who may wish to enjoy theft protection benefits as part of their StableCare Membership on the rare occasions that they have to park outside. StableCare Steel Members can purchase single-use theft protection passes called Guardian Passes. Members can purchase Guardian Passes in packs of 5, 10, and 20 single-use passes. Each Guardian pass has a 12-hour time limit and cannot be used between the hours of 12am and 7am.
+
+**One-time payments:** As of the date of these Terms, StableCare Steel Membership is offered as a one-time purchase (_i.e._, <span style="text-decoration:underline;">not</span> subscriptions), with a variety of payment options available (subject to change from time to time).  Members can optionally purchase their Membership using Klarna or Affirm at checkout to pay for their StableCare Membership in installments.
+
+**Initial Deposit:** StableCare Steel requires a refundable initial deposit of 10% of the coverage amount of your Micromobility Vehicle. You can think of the refundable deposit sort of like a security deposit on a hotel room. If you don’t submit a claim and wish to cancel your coverage, we will refund you the deposit. If you submit a claim and we subsequently approve your claim, your refundable deposit will be converted to a non-refundable deposit.
+
+**Refunds on Canceled Memberships:** Stable will have discretionary authority to refund or send a pro-rata partial refund for StableCare Membership if a Member needs to cancel their membership on good terms with Stable. If a Member’s Membership is terminated for violating these Terms (_e.g._, for submitting a fraudulent theft claim), Company reserves the right to cancel their Membership without a refund and ban the offending user from the Stable App.
+
+**Lock Requirement:** To be eligible for StableCare Steel, you must own and register an anchor lock that meets a minimum standard of Sold Secure Pedal Cycle Gold. Sold Secure Pedal Cycle Diamond, Sold Secure Power Cycle Gold, and Sold Secure Power Cycle Diamond locks are all eligible for StableCare Steel. To see our approved list of locks, [click here](https://stablemobility.io/locks).
+
+Company may deem individual locks as either eligible or ineligible on a case-by-case basis.
+
+**Start Date:** StableCare Steel Memberships begin on the date of purchase, effective immediately after payment is completed.  StableCare Steel Membership is perpetual, lasting until either the Member submits a theft claim or cancels their Membership and receives a refund of their initial deposit. StableCare Steel Members can purchase additional Guardian Passes at any time as long as their Steel Membership is active. Some Membership benefits, such as the ability to submit reviewable theft claims, does not begin until all outstanding “Membership Incomplete” action items are completed.
+
+
+### Discounts
+
+**Alarms:** StableCare Members who have equipped alarms on their vehicles are eligible for a discount of 5% of the monthly membership fee. Company may ask any Member to prove that their alarm is functional at any time during the course of their Membership.
+
+**Referral Codes:** Members who enter a referral code sent to them by another member will receive a 10% discount for their StableCare Membership fee. Members cannot use their own referral code for a 10% discount on their own membership. If a Member's referral code is used by another Member to purchase their StableCare Membership, the referring Member will receive a $50 gift.
+
+
+
 ## How to Become a StableCare Member
 
 The enumerated steps below outline the basic process of becoming a StableCare Member:
@@ -143,7 +225,7 @@ If your Membership is incomplete, you will see a message on your home page withi
 If you start your Membership and then subsequently upgrade your lock, buy a second lock enabling **Alchemy**, buy an alarm, etc., you can reach out to us at any time to have your StableCare Membership tier upgraded and to receive a dividend on your initial payment. If any of these steps are not completed prior to submitting a theft claim for reimbursement, Stable has the right to refuse to process the claim.
 !!!
 
-## StableCare Requirements
+## StableCare Theft Protection Requirements
 
 ### Log Parking
 
@@ -318,92 +400,6 @@ We recommend that you gather all the necessary documentation for your claim, whi
 You will receive a notification regarding the outcome of your claim. If it's approved, the reimbursement process will begin. If it's denied, you'll receive an explanation why.
 
 
-## Consequences of Non-Compliance
-
-Company reserves the right to deny a theft claim and/or terminate a Member’s StableCare Membership for non-compliance with the Terms and Conditions set forth herein.
-
-
-## StableCare Tiers and Fee Structure
-
-There are three different StableCare Tiers that each have different impacts on fees and requirements, which are described in more detail below.
-
-
-### StableCare Gold
-
-**Options:** StableCare Gold is available as an Annual or Seasonal Membership.
-
-**Annual Memberships** are available for riders who want coverage year-round. Coverage begins on the date of purchase and ends one (1) year later.
-
-**Seasonal Memberships** are charged for riders who want coverage during the riding season, which is from April 1 to November 1, but don’t ride during the colder winter months. Riding season is statistically when most thefts happen, so coverage is important for riders who are worried about theft during the season. Although most thefts occur during riding season, we still offer a discount for Seasonal Memberships compared to the price for an annual membership.
-
-Seasonal Memberships extend from April 1 to November 1 (the “riding season”).  Seasonal Memberships purchased prior to April 1 of a given year begin on April 1 of that year.  Seasonal Memberships can also be purchased mid-season between April 1 and November 1 begin on the date of purchase and expire on the following November 1.  Seasonal Memberships purchased between November 1 and December 31 of a given year will begin on April 1 of the next calendar year.  Seasonal Memberships purchased “mid-season” (between April 1 and November 1) receive a mid-season, pro-rated discount.
-
-**One-time payments:** As of the date of these Terms, both Annual and Seasonal Memberships are offered as one-time purchases (_i.e._, <span style="text-decoration:underline;">not</span> subscriptions), with a variety of payment options available (subject to change from time to time).  Members can optionally purchase their Membership using Klarna or Affirm at checkout to pay for their StableCare Membership in installments.
-
-**Cybersecurity and Privacy:** In the interest of cybersecurity best practices and user privacy, Stable does not store any payment information in our systems.
-
-**Membership Dividends:** From time-to-time, or at the end of a Membership cycle, StableCare Gold Members may receive a partial refund of their Membership fee, which we refer to as the “Membership Dividend.”  If Members take precautionary measures to reduce their risk of theft, and therefore fewer theft claims are filed than expected, Company commits to returning excess profits to the Members in the form of this Membership Dividend.  Company reserves the right to determine the appropriate mechanism for distributing any Membership Dividends to the members, which may include one or more of the following: partial refunds back to each Members’ original payment method, Visa gift cards, Amazon gift cards, and/or other discounts toward a future StableCare Membership and/or other Stable products and services.  Members are not entitled to the Membership Dividend, nor should they reasonably expect to receive it; the Membership Dividend is offered at Company’s sole discretion, consistent with our mission to encourage micromobility vehicle owners to replace car trips with micromobility trips.
-
-**Refunds on Canceled Memberships:** Stable will have discretionary authority to refund or send a pro-rata partial refund for StableCare Membership if a Member needs to cancel their membership on good terms with Stable. If a Member’s Membership is terminated for violating these Terms (_e.g._, for submitting a fraudulent theft claim), Company reserves the right to cancel their Membership without a refund and ban the offending user from the Stable App.
-
-**Lock Requirement:** To be eligible for StableCare Gold, you must own and register an anchor lock that meets a minimum standard of Sold Secure Pedal Cycle Gold, Sold Secure Pedal Cycle Diamond, or Sold Secure Power Cycle Gold lock. To see our approved list of locks, [click here](https://stablemobility.io/locks).
-
-Company may deem individual locks as either eligible or ineligible on a case-by-case basis.
-
-**Start Date:** StableCare Gold Memberships begin on the date of purchase, effective immediately after payment is completed.  The start and end dates of your StableCare Membership can be viewed within the Stable App. Some Membership benefits, such as the ability to submit reviewable theft claims, does not begin until all outstanding “Membership Incomplete” action items are completed.
-
-
-### StableCare Diamond
-
-**Options:** StableCare Diamond is available as an Annual or Seasonal Membership.
-
-**Annual Memberships** are available for riders who want coverage year-round. Coverage begins on the date of purchase and ends one (1) year later.
-
-**Seasonal Memberships** are charged for riders who want coverage during the riding season, which is from April 1 to November 1, but don’t ride during the colder winter months. Riding season is statistically when most thefts happen, so coverage is important for riders who are worried about theft during the season. Although most thefts occur during riding season, we still offer a discount for Seasonal Memberships compared to the price for an annual membership.
-
-Seasonal Memberships extend from April 1 to November 1 (the “riding season”).  Seasonal Memberships purchased prior to April 1 of a given year begin on April 1 of that year.  Seasonal Memberships can also be purchased mid-season between April 1 and November 1 begin on the date of purchase and expire on the following November 1.  Seasonal Memberships purchased between November 1 and December 31 of a given year will begin on April 1 of the next calendar year.  Seasonal Memberships purchased “mid-season” (between April 1 and November 1) receive a mid-season, pro-rated discount.
-
-**One-time payments:** As of the date of these Terms, both Annual and Seasonal Memberships are offered as one-time purchases (_i.e._, <span style="text-decoration:underline;">not</span> subscriptions), with a variety of payment options available (subject to change from time to time).  Members can optionally purchase their Membership using Klarna or Affirm at checkout to pay for their StableCare Membership in installments.
-
-**Cybersecurity and Privacy:** In the interest of cybersecurity best practices and user privacy, Stable does not store any payment information in our systems.
-
-**Membership Dividends:** From time-to-time, or at the end of the Membership cycle, StableCare Diamond Members may receive a partial refund of their Membership fee, referred to as the Membership Dividend. If Members take precautionary measures to reduce their risk of theft, and therefore fewer theft claims are filed than expected, Company commits to returning excess profits to the Members in the form of this Membership Dividend. Company reserves the right to determine the appropriate mechanism for distributing any Membership Dividends to the Members, which may include one or more of the followingL partial refunds back to each Member’s original payment method, Visa gift cards, Amazon gift cards, and/or other discounts toward a future StableCare Membership and/or other Stable products and services. Members are not entitled to the Membership Dividend, nor should they reasonably expect to receive it; the Membership Dividend is offered at Company’s sole discretion, consistent with our mission to encourage micromobility vehicle owners to replace car trips with micromobility trips.
-
-**Refunds on Canceled Memberships:** Stable will have discretionary authority to refund or send a pro-rata partial refund for StableCare Membership if a Member needs to cancel their membership on good terms with Stable. If a Member’s Membership is terminated for violating these Terms (_e.g._, for submitting a fraudulent theft claim), Company reserves the right to cancel their Membership without a refund and ban the offending user from the Stable App.
-
-**Lock Requirement:** To be eligible for StableCare Diamond, you must own and register an anchor lock that meets a minimum standard of Sold Secure Power Cycle Diamond. To see our approved list of locks, [click here](https://stablemobility.io/locks).
-
-
-
-* **Alchemy**- A member may also become eligible for StableCare Diamond with a combination of two or more locks that are eligible for StableCare Gold. Each lock must be registered in the app and applied to our quoting engine to unlock Diamond membership.
-
-**Start Date:** StableCare Diamond Memberships begin on the date of purchase, effective immediately after payment is completed.  The start and end dates of your StableCare Membership can be viewed within the Stable App. Some Membership benefits, such as the ability to submit reviewable theft claims, does not begin until all outstanding “Membership Incomplete” action items are completed.
-
-
-### StableCare Steel
-
-**Membership:** StableCare Steel Membership is an option for riders that infrequently park their Micromobility Vehicle outside, but who may wish to enjoy theft protection benefits as part of their StableCare Membership on the rare occasions that they have to park outside. StableCare Steel Members can purchase single-use theft protection passes called Guardian Passes. Members can purchase Guardian Passes in packs of 5, 10, and 20 single-use passes. Each Guardian pass has a 12-hour time limit and cannot be used between the hours of 12am and 7am.
-
-**One-time payments:** As of the date of these Terms, StableCare Steel Membership is offered as a one-time purchase (_i.e._, <span style="text-decoration:underline;">not</span> subscriptions), with a variety of payment options available (subject to change from time to time).  Members can optionally purchase their Membership using Klarna or Affirm at checkout to pay for their StableCare Membership in installments.
-
-**Initial Deposit:** StableCare Steel requires a refundable initial deposit of 10% of the coverage amount of your Micromobility Vehicle. You can think of the refundable deposit sort of like a security deposit on a hotel room. If you don’t submit a claim and wish to cancel your coverage, we will refund you the deposit. If you submit a claim and we subsequently approve your claim, your refundable deposit will be converted to a non-refundable deposit.
-
-**Refunds on Canceled Memberships:** Stable will have discretionary authority to refund or send a pro-rata partial refund for StableCare Membership if a Member needs to cancel their membership on good terms with Stable. If a Member’s Membership is terminated for violating these Terms (_e.g._, for submitting a fraudulent theft claim), Company reserves the right to cancel their Membership without a refund and ban the offending user from the Stable App.
-
-**Lock Requirement:** To be eligible for StableCare Steel, you must own and register an anchor lock that meets a minimum standard of Sold Secure Pedal Cycle Gold. Sold Secure Pedal Cycle Diamond, Sold Secure Power Cycle Gold, and Sold Secure Power Cycle Diamond locks are all eligible for StableCare Steel. To see our approved list of locks, [click here](https://stablemobility.io/locks).
-
-Company may deem individual locks as either eligible or ineligible on a case-by-case basis.
-
-**Start Date:** StableCare Steel Memberships begin on the date of purchase, effective immediately after payment is completed.  StableCare Steel Membership is perpetual, lasting until either the Member submits a theft claim or cancels their Membership and receives a refund of their initial deposit. StableCare Steel Members can purchase additional Guardian Passes at any time as long as their Steel Membership is active. Some Membership benefits, such as the ability to submit reviewable theft claims, does not begin until all outstanding “Membership Incomplete” action items are completed.
-
-
-### Discounts
-
-**Alarms:** StableCare Members who have equipped alarms on their vehicles are eligible for a discount of 5% of the monthly membership fee. Company may ask any Member to prove that their alarm is functional at any time during the course of their Membership.
-
-**Referral Codes:** Members who enter a referral code sent to them by another member will receive a 10% discount for their StableCare Membership fee. Members cannot use their own referral code for a 10% discount on their own membership. If a Member's referral code is used by another Member to purchase their StableCare Membership, the referring Member will receive a $50 gift.
-
-
 ## StableCare Limitations and Restrictions
 
 ### Limitations
@@ -427,13 +423,19 @@ If your claim is denied, you may appeal our decision if it is due to the suspici
 
 **Fraud:** Members are restricted access to StableCare Membership benefits if they commit fraud or are suspected of committing fraud. Members who are suspected of attempting to commit fraud will lose StableCare Membership benefits and will forfeit any Membership fees paid to Stable. Company reserves the right to press criminal charges against such Members where applicable.
 
-**Referral Fraud: **Members are strictly forbidden from creating more than one Stable App user account to generate one or more referral codes using different email addresses. Creating multiple accounts to facilitate self-referrals will be deemed Referral Fraud by the Company, and will be treated as a violation of our Terms and Conditions, subject to a permanent ban from the Stable App and from losing StableCare Membership benefits.
+**Referral Fraud:** Members are strictly forbidden from creating more than one Stable App user account to generate one or more referral codes using different email addresses. Creating multiple accounts to facilitate self-referrals will be deemed Referral Fraud by the Company, and will be treated as a violation of our Terms and Conditions, subject to a permanent ban from the Stable App and from losing StableCare Membership benefits.
 
 **Use of vehicle by non-members:** StableCare Membership benefits do not extend to non-members who borrow a vehicle and who log into the Stable App to log parking. StableCare Membership benefits only apply to Members and cannot be transferred in any way to non-members. Members caught sharing their Stable App log-in with non-members may have StableCare Membership benefits revoked and may be restricted from using the Stable App.
 
 **Explicit or Inappropriate Content when logging parking or mapping stables:** Members are not allowed to upload explicit or inappropriate content when logging parking or mapping stables. This means no pornography, no derogatory or offensive signs, or language, or any other content that can be considered explicit. Company reserves the right to suspend or ban accounts that engage in such behavior when using the Stable App.
 
 **Coverage:** The coverage amount of StableCare Membership benefits cannot be greater than the total cost of a vehicle, lock, and accessories, if you elect to add on those items. Members are required to upload proof of purchase of their vehicle and to send additional proof of purchase of any additional accessories they wish to add to coverage via email if requested by Company. Members shall upload proof of purchase of their vehicle to the StableCare Membership account page in the Stable App prior to submitting a theft claim. StableCare Membership benefits shall not exceed the total value of all items added to coverage.
+
+
+
+## Consequences of Non-Compliance
+
+Company reserves the right to deny a theft claim and/or terminate a Member’s StableCare Membership for non-compliance with the Terms and Conditions set forth herein.
 
 
 ## Modifications
@@ -464,4 +466,8 @@ In no event shall Stable be liable to any StableCare Member for incidental, cons
 ## Acceptance
 
 By accepting these terms and conditions, you acknowledge that you have read, understood, and agree to the terms outlined above.
+
+!!!ghost
+_Last updated June 16, 2023_
+!!!
 
