@@ -6,6 +6,10 @@ order: 79
 
 # Giveaways
 
+!!!warning
+The giveaways described below have been canceled until further notice. We will be sending out locks to the winners of the May giveaway once they are delivered to us. We may resume giveaways in the future.
+!!!
+
 During open beta testing, we are doing a limited time set of raffle giveaways of premium locks for users that map a certain number of Stables each month.
 
 | Tier | Num Stables Mapped that month | Reward |

@@ -14,9 +14,32 @@ You can check your app's version number at the bottom of the Accounts and Settin
 
 ## Open Beta
 
-### v0.4.6.1
+### v0.5.1
 
 [![](../static/buttons/google-play-button.png)](https://play.google.com/store/apps/details?id=com.stablemobility.stableapp) [![](../static/buttons/testflight-button.png)](https://testflight.apple.com/join/QAQbQUpP)
+
+Introducing **StableCare**—a theft protection membership for your e-scooter, e-bike, or other micromobility vehicle. Getting coverage is as easy as becoming a member and logging each time you park within the app. Enjoy the riding season and park worry-free with Stable.
+
+***Theft. Not your problem.***
+
+#### New Features :new:
+- [x] Added **StableCare** to the app. You'll find the StableCare tab at the bottom navigation bar of the app. In this tab, you can get quotes, share your referral code, and (once you become a Member) can manage your Membership.
+- [x] **StableCare Mock Quotes**: Don't have a registered vehicle or a registered lock that qualifies for StableCare? No problem! You can still get a mock quote to check out the options that can be made available to you once you are eligible for StableCare.
+- [x] You can now register alarms to your account, such as motion-activated alarms that can be attached to your vehicle to deter theft. If you register an alarm, you may qualify for a StableCare discount!
+- [x] You can now choose your preferred maps application under the "Edit Profile" page on the Accounts tab. If you have iOS, but prefer to use Google Maps, changing this setting will allow you to view your last parked location and the location of Stables in Google Maps instead of the default Apple Maps.
+- [x] Added a widget to the Home Page when a new update is available. Going forward, when you tap on the update widget, you'll be able to review the changelog and jump to the Google Play Store or App Store to update your app to the latest version.
+
+#### Changes :gear:
+- [x] Revamped the **log parking** feature. Before, it was possible for a user to cancel the image upload before it completed, causing the parking record to not be created. The new logging parking implementation significantly improves its reliability. For StableCare members, this means that if you tap the button and snap a pic, we'll always have a record that you parked, which is a critical part of your StableCare theft protection.
+- [x] For StableCare Members, you can now select to log parking under your membership (instead of selecting a vehicle and a lock).
+
+#### Bug Fixes :hammer_and_wrench:
+- [x] Fixed an issue that caused the "No registered vehicles" notification on the home screen to disappear, even when the user did not have a registered vehicle.
+- [x] Fixed an issue that caused the new account registration screen to show a loading icon when the new user did not open the app using a referral link.
+- [x] Fixed an issue that prevented us from storing the serial number of vehicles registered in the app.
+
+
+### v0.4.6.1
 
 This update comes with some quick fixes and improvements based on initial feedback from early adopters. Thank you so much for being a part of the open beta testing!
 
