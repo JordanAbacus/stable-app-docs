@@ -14,9 +14,17 @@ You can check your app's version number at the bottom of the Accounts and Settin
 
 ## Open Beta
 
-### v0.5.1
+### v0.5.2
 
 [![](../static/buttons/google-play-button.png)](https://play.google.com/store/apps/details?id=com.stablemobility.stableapp) [![](../static/buttons/testflight-button.png)](https://testflight.apple.com/join/QAQbQUpP)
+
+This is a tiny update from v0.5.1 that fixes a minor but important bug that affected how we automatically determine your lock's eligibility for StableCare. If you've already registered your lock, then this update won't affect your account, but it will affect any new locks you register to your account from now on.
+
+#### Bug Fixes :hammer_and_wrench:
+
+- [x] **Lock StableCare Eligibility fix**: In v0.5.1, if you registered a lock to your account, your lock might not have been properly identified as eligible for StableCare Gold. The logic only considered locks that were Sold Secure (Powered) Gold to be eligible for StableCare Gold, which is incorrect. With this update, locks that are Sold Secure (Pedal) Gold or better are considered eligible for StableCare Gold. If you registered a lock to your account in v0.5.1, we will make sure that your lock's eligibility for StableCare is correctly configured.
+
+### v0.5.1
 
 Introducing **StableCare**—a theft protection membership for your e-scooter, e-bike, or other micromobility vehicle. Getting coverage is as easy as becoming a member and logging each time you park within the app. Enjoy the riding season and park worry-free with Stable.
 
