@@ -8,7 +8,7 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.0.3.740422691698">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.0.3.741533205028">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.0.3">
@@ -38,11 +38,11 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../static/logo/stable-logo-40.png" rel="icon" />
-    <link href="../../resources/css/retype.css?v=3.0.3.740422691698" rel="stylesheet" />
+    <link href="../../resources/css/retype.css?v=3.0.3.741533205028" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=3.0.3.740422691698" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/config.js?v=3.0.3.741533205028" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=3.0.3" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=3.0.3.740422691698" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=3.0.3.741533205028" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=G-1BH6E61G8N" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -205,13 +205,49 @@
         <span>Open Beta</span>
     </h2>
 </doc-anchor-target>
+<doc-anchor-target id="v053">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#v053">#</doc-anchor-trigger>
+        <span>v0.5.3</span>
+    </h3>
+</doc-anchor-target>
+<p><a href="https://play.google.com/store/apps/details?id=com.stablemobility.stableapp"><img src="../../static/buttons/google-play-button.png" alt="" /></a> <a href="https://testflight.apple.com/join/QAQbQUpP"><img src="../../static/buttons/testflight-button.png" alt="" /></a></p>
+<p>This is a minor update that fixes a few important bugs, and implements points and token rewards for logging parking. Thanks to our amazing users for finding and reporting them! Stay tuned for new features in the next major update to the app. If you have feature suggestions, feel free to send them our way on Discord or on our feature suggestion board!</p>
+<doc-anchor-target id="new-features">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#new-features">#</doc-anchor-trigger>
+        <span>New Features <span class="docs-emoji">&#x1F195;</span></span>
+    </h4>
+</doc-anchor-target>
+<ul class="contains-task-list">
+<li class="task-list-item"><input disabled="disabled" type="checkbox" checked="checked" /> <strong>Points and Tokens for Logging Parking</strong>: Logging parking now awards points and tokens, as described in our documentation. This should make it easier for users to get tokens more easily to continue renewing Stable+ without having to map Stables or purchase tokens.</li>
+</ul>
+<doc-anchor-target id="changes-improvements">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#changes-improvements">#</doc-anchor-trigger>
+        <span>Changes/Improvements <span class="docs-emoji">&#x2699;&#xFE0F;</span></span>
+    </h4>
+</doc-anchor-target>
+<ul class="contains-task-list">
+<li class="task-list-item"><input disabled="disabled" type="checkbox" checked="checked" /> <strong>Faster App Update Notifications</strong>: The previous implementation of our in-app update notifications took up to 24 hours to propagate to all users. From version 0.5.3 onward, users should see the notification appear on their homescreen immediately. You can also tap on it to check out the changelog!</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" checked="checked" /> <strong>Activating StableCare Benefits</strong>: Previously, StableCare members had the option to file a claim to utilize their theft protection benefit of their membership. We&#x27;ve replaced that button with a more general &quot;Activate Benefits&quot; button, which lays the groundwork for adding future membership benefits that you can activate and access from within the app.</li>
+</ul>
+<doc-anchor-target id="bug-fixes">
+    <h4>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#bug-fixes">#</doc-anchor-trigger>
+        <span>Bug Fixes <span class="docs-emoji">&#x1F6E0;&#xFE0F;</span></span>
+    </h4>
+</doc-anchor-target>
+<ul class="contains-task-list">
+<li class="task-list-item"><input disabled="disabled" type="checkbox" checked="checked" /> Fixed a bug that caused the app to crash when tapping on the info icon on the &quot;Last Parked At&quot; card on the home page.</li>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" checked="checked" /> Fixed an issue that prevented users from registering locks that weren&#x27;t found in our lock database. Now, even if your lock isn&#x27;t found, the submit button will still appear and allow you to add the lock to your account.</li>
+</ul>
 <doc-anchor-target id="v052">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#v052">#</doc-anchor-trigger>
         <span>v0.5.2</span>
     </h3>
 </doc-anchor-target>
-<p><a href="https://play.google.com/store/apps/details?id=com.stablemobility.stableapp"><img src="../../static/buttons/google-play-button.png" alt="" /></a> <a href="https://testflight.apple.com/join/QAQbQUpP"><img src="../../static/buttons/testflight-button.png" alt="" /></a></p>
 <p>This is a tiny update from v0.5.1 that fixes a minor but important bug that affected how we automatically determine your lock&#x27;s eligibility for StableCare. If you&#x27;ve already registered your lock, then this update won&#x27;t affect your account, but it will affect any new locks you register to your account from now on.</p>
 <doc-anchor-target id="bug-fixes">
     <h4>
