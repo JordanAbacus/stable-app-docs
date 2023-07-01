@@ -14,9 +14,25 @@ You can check your app's version number at the bottom of the Accounts and Settin
 
 ## Open Beta
 
-### v0.5.2
+### v0.5.3
 
 [![](../static/buttons/google-play-button.png)](https://play.google.com/store/apps/details?id=com.stablemobility.stableapp) [![](../static/buttons/testflight-button.png)](https://testflight.apple.com/join/QAQbQUpP)
+
+This is a minor update that fixes a few important bugs, and implements points and token rewards for logging parking. Thanks to our amazing users for finding and reporting them! Stay tuned for new features in the next major update to the app. If you have feature suggestions, feel free to send them our way on Discord or on our feature suggestion board!
+
+#### New Features :new:
+- [x] **Points and Tokens for Logging Parking**: Logging parking now awards points and tokens, as described in our documentation. This should make it easier for users to get tokens more easily to continue renewing Stable+ without having to map Stables or purchase tokens.
+
+#### Changes/Improvements :gear:
+- [x] **Faster App Update Notifications**: The previous implementation of our in-app update notifications took up to 24 hours to propagate to all users. From version 0.5.3 onward, users should see the notification appear on their homescreen immediately. You can also tap on it to check out the changelog!
+- [x] **Activating StableCare Benefits**: Previously, StableCare members had the option to file a claim to utilize their theft protection benefit of their membership. We've replaced that button with a more general "Activate Benefits" button, which lays the groundwork for adding future membership benefits that you can activate and access from within the app.
+
+#### Bug Fixes :hammer_and_wrench:
+- [x] Fixed a bug that caused the app to crash when tapping on the info icon on the "Last Parked At" card on the home page.
+- [x] Fixed an issue that prevented users from registering locks that weren't found in our lock database. Now, even if your lock isn't found, the submit button will still appear and allow you to add the lock to your account.
+
+
+### v0.5.2
 
 This is a tiny update from v0.5.1 that fixes a minor but important bug that affected how we automatically determine your lock's eligibility for StableCare. If you've already registered your lock, then this update won't affect your account, but it will affect any new locks you register to your account from now on.
 
