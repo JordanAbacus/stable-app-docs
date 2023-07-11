@@ -14,7 +14,7 @@ Getting coverage is as easy as becoming a member and logging each time you park 
 
 The process of getting StableCare is easy!
 
-1. Download the Stable App for [Android](https://play.google.com/store/apps/details?id=com.stablemobility.stableapp) or [iOS](https://testflight.apple.com/join/QAQbQUpP).
+1. Download the Stable App for [Android](https://play.google.com/store/apps/details?id=com.stablemobility.stableapp) or [iOS](https://apps.apple.com/us/app/stable-pev-theft-protection/id6446907426).
 2. Create an account
 3. [Register](../overview/account-setup.md) the vehicle you want coverage for and at least one lock that is eligible for StableCare.
 4. Under the StableCare tab, click "Get a Quote" (or the + icon next to "My Quotes")

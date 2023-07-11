@@ -13,7 +13,11 @@ links:
 - text: Android App
   link: https://play.google.com/store/apps/details?id=com.stablemobility.stableapp
 - text: iOS App
-  link: https://testflight.apple.com/join/QAQbQUpP
+  link: https://apps.apple.com/us/app/stable-pev-theft-protection/id6446907426
+- text: Discord
+  link: https://discord.gg/sVQ8yfA8yB
+- text: Get a StableCare Quote
+  link: https://stablemobility.io/stablecare?ss_source=stabledocs
 footer:
   copyright: "&copy; Copyright Stable Micromobility, LLC {{ year }}. All rights reserved."
   links:

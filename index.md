@@ -6,9 +6,9 @@ order: 199
 
 # Introduction
 
-The Stable App is a mobile app for iOS and Android that helps micromobility vehicle owners **find secure parking** and **streamline the process of gathering evidence** to make theft insurance claims.
+The Stable App is a mobile app for iOS and Android that helps micromobility vehicle owners **find secure parking**, **streamline the process of gathering evidence** to make theft insurance claims, and **get theft protection** for their e-scooter, e-bike, or other personal electric vehicle (PEV).
 
-[![](static/buttons/google-play-button.png)](https://play.google.com/store/apps/details?id=com.stablemobility.stableapp) [![](static/buttons/testflight-button.png)](https://testflight.apple.com/join/QAQbQUpP)
+[![](static/buttons/google-play-button.png)](https://play.google.com/store/apps/details?id=com.stablemobility.stableapp) [![](static/buttons/app-store-button.png)](https://apps.apple.com/us/app/stable-pev-theft-protection/id6446907426)
 
 
 ||| Home Page
@@ -41,7 +41,7 @@ Users can also look for parking spots that others have previously mapped on the 
 
 ### Posts and Stables
 
-Parking spots can be considered either [Posts](definitions/post.md) or [Stables](definitions/stable.md). A **Stable** is a parking spot that is within view of a security camera. Conversely, a **Post** (short for "Hitching Post") is a parking spot that is \_**not** \_ within view of a security camera.
+Parking spots can be considered either [Posts](definitions/post.md) or [Stables](definitions/stable.md). A **Stable** is a parking spot that is within view of a security camera. Conversely, a **Post** (short for "Hitching Post") is a parking spot that is **not** within view of a security camera.
 
 !!! About camera-monitored spots
 We are aware that, just because there is a security camera nearby, doesn't necessarily mean that it's operational, pointed at the parking spot, and that the owner is willing to share the footage. We are actively developing the process of verifying these details.

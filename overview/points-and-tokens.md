@@ -57,9 +57,9 @@ Here are the planned points and tokens awards for various actions within the app
 
 Action | Points Awarded | Tokens Awarded
 ------ | -------------- | --------------
-~Map a Post | 1 | 1
-~Map a Stable | 5 | 5
-~Verify your Account | 10 | 10
+Map a Post | 1 | 1
+Map a Stable | 5 | 5
+Verify your Account | 10 | 10
 Log Parking (1st time this month)| 1 | 10
 Log Parking (2nd time this month)| 1 | 8
 Log Parking (3rd time this month)| 1 | 6
@@ -67,8 +67,8 @@ Log Parking (4th time this month)| 1 | 4
 Log Parking (5th time this month)| 1 | 2
 Log Parking (6th+ time this month)| 1 | 1
 
-!!!warning
-Only Actions with the **~** preceding them have been implemented as of the current open beta release v0.4.5.1. If you log parking and want your tokens, just drop us a note at support@stablemobility.io and we'll manually update your account with the tokens. Thanks for your patience as we continue to build out the app!
+!!!info
+As of version [0.5.3](../reference/changelog.md#v053), logging parking now rewards points and tokens!
 !!!
 
 We hope that these token awards make it easy enough for most users to earn at least 30 tokens a month through normal use of the app. Here are a few scenarios to illustrate:
