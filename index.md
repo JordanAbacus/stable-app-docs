@@ -6,7 +6,7 @@ order: 199
 
 # Introduction
 
-The Stable App is a mobile app for iOS and Android that helps micromobility vehicle owners **find secure parking**, **streamline the process of gathering evidence** to make theft insurance claims, and **get theft protection** for their e-scooter, e-bike, or other personal electric vehicle (PEV).
+The Stable App is a mobile app for iOS and Android that helps micromobility vehicle owners **find secure parking**, **streamline the process of gathering evidence** to make theft insurance claims, and [**get theft protection**](stablecare/what-is-stablecare.md) for their e-scooter, e-bike, or other personal electric vehicle (PEV).
 
 [![](static/buttons/google-play-button.png)](https://play.google.com/store/apps/details?id=com.stablemobility.stableapp) [![](static/buttons/app-store-button.png)](https://apps.apple.com/us/app/stable-pev-theft-protection/id6446907426)
 

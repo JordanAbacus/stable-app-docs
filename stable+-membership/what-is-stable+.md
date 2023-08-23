@@ -9,7 +9,7 @@ Stable+ is the "pro" membership within the Stable App. Stable+ Members have acce
 
 ## Stable+ Trial
 
-When you create a new account, you are given a 7-day trial period to test out Stable+. This gives you access to all Stable+ features. As of the writing of this document, this includes:
+When you create a new account, you are given a 31-day trial period to test out Stable+. This gives you access to all Stable+ features. As of the writing of this document, this includes:
 
 * **Find a Stable**: A Google Map view of Posts and Stables that you can use to find secure parking.
 

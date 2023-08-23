@@ -12,7 +12,7 @@ You can check your app's version number at the bottom of the Accounts and Settin
 
 ![](../static/misc/app-version-number.png)
 
-## Open Beta
+## Production
 
 ### v0.5.3
 
@@ -31,6 +31,7 @@ This is a minor update that fixes a few important bugs, and implements points an
 - [x] Fixed a bug that caused the app to crash when tapping on the info icon on the "Last Parked At" card on the home page.
 - [x] Fixed an issue that prevented users from registering locks that weren't found in our lock database. Now, even if your lock isn't found, the submit button will still appear and allow you to add the lock to your account.
 
+## Open Beta
 
 ### v0.5.2
 

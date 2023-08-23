@@ -10,6 +10,8 @@ order: 179
 
 Getting coverage is as easy as becoming a member and logging each time you park within the app. For more info about StableCare, continue reading this documentation and review our [Terms and Conditions](terms-and-conditions.md)
 
+Have a specific question? Check out our [Frequently Asked Questions](faq.md).
+
 ## How do I get StableCare?
 
 The process of getting StableCare is easy!
