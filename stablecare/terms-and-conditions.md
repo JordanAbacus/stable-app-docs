@@ -6,11 +6,6 @@ order: 171
 
 # StableCare Terms & Conditions
 
-!!!info
-_These terms and conditions for StableCare Membership (“Terms and Conditions”) apply to all StableCare Members who purchased a StableCare Membership on or after June 16, 2023._
-!!!
-
-
 ## Introduction
 
 These Terms and Conditions ("Terms") govern your use of StableCare Membership ("Membership" or “StableCare”) offered by Stable ("Company"). By enrolling in StableCare Membership, you agree to abide by these Terms. To be a StableCare member, registrants must be 18 years or older to agree to the Terms and Conditions.
