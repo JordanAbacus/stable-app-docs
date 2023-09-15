@@ -1,7 +1,7 @@
 ---
 description: Completing your StableCare Membership
 icon: checklist
-order: 175
+order: 176
 ---
 
 # Completing your Membership
@@ -49,8 +49,6 @@ If your Membership is incomplete, you will see a message on your home page withi
 If you start your Membership and then subsequently upgrade your lock, buy a second lock enabling **Alchemy**, buy an alarm, etc., you can reach out to us at any time to have your StableCare Membership tier upgraded and to receive a dividend on your initial payment. If any of these steps are not completed prior to submitting a theft claim for reimbursement, Stable has the right to refuse to process the claim.
 !!!
 
-
-## After you’ve become a StableCare Member
 
 !!!warning Under Construction
 This article is a work-in-progress! If you want more information, we invite you to chat with us on [Discord](https://discord.gg/sVQ8yfA8yB) or via email at hello@stablemobility.io

@@ -1,10 +1,10 @@
 ---
-description: A brief description of changes made in each version
+description: A brief description of changes made in each version of the Stable App
 icon: commit
 order: 29
 ---
 
-# Changelog
+# App Changelog
 
 This page summarizes updates, changes, and improvements we make to the app for each release.
 
