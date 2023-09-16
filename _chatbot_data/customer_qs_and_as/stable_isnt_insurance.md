@@ -2,7 +2,7 @@
 
 ## Question: Is Stable an insurance company?
 
-We are not an insurance company (yet). We offer e-scooter product protection plans, which specifically cover theft, but we are not technically a licensed insurance provider. As we have not done extensive legal research on the regulatory requirements for offering product protection plans in your country, we would probably want to do that first and get back to you. These types of protection plans and insurance policies are often highly regulated, so we'd like to make sure that we are able to sell such a policy to you in your country.
+We are not an insurance company (yet). We offer e-scooter product protection plans, which specifically cover theft, but we are not technically a licensed insurance provider. 
 
 ## Question: What is StableCare theft protection, if it's not insurance?
 
