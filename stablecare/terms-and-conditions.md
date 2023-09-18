@@ -667,7 +667,7 @@ For your convenience, we maintain copies of our previous versions of these Terms
 ==- Changelog
 - [x] Added a [Definitions](#definitions) section to explicitly define important words and phrases used in these terms.
 - [x] In the [What are the StableCare Membership Benefits](#what-are-the-stablecare-membership-benefits) section:
-    - enumerated the covered theft sccenarios
+    - enumerated the covered theft scenarios
     - clarified the post claim approval replacement/reimbursement process
     - clarified how to get coverage for lock(s) and/or accessories
 - [x] Under [Ineligible Vehicles](#ineligible-vehicles), clarified that Stable will not retroactively determine that a Member's vehicle is ineligible after they purchase their StableCare Membership.
