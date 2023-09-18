@@ -22,7 +22,7 @@ Theft of an unlocked vehicle through robbery (_e.g._, taken from your person whi
 
 ## What are the StableCare Membership Benefits?
 
-### Theft Coverage for your Vehicle, Lock(s), and/or Accesories
+### Theft Coverage for your Vehicle, Lock(s), and/or Accessories
 
 If the Member's [properly locked-up](#definition-proper-lock-up) micromobility vehicle is stolen under one of the following circumstances:
 
