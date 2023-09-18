@@ -59,8 +59,10 @@ Tier          | Membership Periods  | Minimum Lock Requirement      | Number of 
 \*\*\* _To get theft protection under a Steel membership, you must use a single parking session Guardian Pass. If you run out of Guardian Passes and do not purchase more, you will not have theft protection._
 ===
 
-!!!
-At this time, we do not offer monthly memberships. However, you can choose to pay for an annual or seasonal membership in installments with Affirm or Klarna. If you decide you want to discontinue coverage (*e.g.*, you sell or upgrade your vehicle before your membership period ends), we will give you a pro-rated, partial refund for the unusued portion of your membership.
+!!!info Monthly Payments
+At this time, we only offer monthly memberships on a case-by-case basis, based on financial need. If you need to pay for your membership as a monthly subscription, just reach out to us at hello@stablemobility.io and ask.
+
+You can choose to pay for an annual or seasonal membership in installments with Affirm or Klarna without special approval. If you decide you want to discontinue coverage (*e.g.*, you sell or upgrade your vehicle before your membership period ends), we will give you a pro-rated, partial refund for the unusued portion of your membership.
 !!!
 
 ### Gold

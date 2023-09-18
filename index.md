@@ -23,7 +23,7 @@ The Stable App is a mobile app for iOS and Android that helps micromobility vehi
 
 The Stable App is intended for all people who own their own micromobility vehicle—such as a bicycle, e-bike, or e-scooter—and have to park it outside from time to time.
 
-The core features of the app are specifically geared toward riders who have theft insurance (such as [Velosurance](https://velosurance.com), [Simple Bike Insurance](https://simplebikeinsurance.com), or [Markel](https://www.markelinsurance.com/bicycle)) or some other kind of theft reimbursement policy, such as [Kryptonite's Anti-Theft Protection Offer (ATPO)](https://shop.kryptonitelock.com/atpo\_landing\_pages/register-for-anti-theft-en.html?origin=en.html).
+The core features of the app are specifically geared toward riders who either are [StableCare](stablecare/what-is-stablecare.md) members, or who have theft insurance or some other kind of theft reimbursement policy. Riders can get quotes for StableCare, purchase a StableCare membership, and log parking to enjoy theft protection under their StableCare Membership. For riders who already have insurance, the app allows you to discover and share camera-monitored parking spots, and to log parking sessions, both of which provide useful evidence to bolster your chances at a successful insurance claim if your vehicle gets stolen.
 
 Even if you don't have theft coverage, we encourage all riders to use the app. As more people use it, we'll learn more about where thefts occur, which vehicles are most targeted, and which locks are most easily defeated—and are committed to sharing this info with you to help reduce the chances that you fall victim to theft.
 
