@@ -12,6 +12,10 @@ Getting coverage is as easy as becoming a member and logging each time you park 
 
 Have a specific question? Check out our [Frequently Asked Questions](faq.md).
 
+Or, [chat with Kal](https://stable-kal-chatbot-beta.streamlit.app), our friendly AI chatbot!
+
+<!--[!embed](https://stable-kal-chatbot-beta.streamlit.app/?embed=true&embed_options=dark_theme)-->
+
 ## How do I get StableCare?
 
 The process of getting StableCare is easy!
