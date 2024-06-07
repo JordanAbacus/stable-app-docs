@@ -14,9 +14,16 @@ You can check your app's version number at the bottom of the Accounts and Settin
 
 ## Production
 
-### v0.5.3
+### v0.5.4
 
 [![](../static/buttons/google-play-button.png)](https://play.google.com/store/apps/details?id=com.stablemobility.stableapp) [![](../static/buttons/app-store-button.png)](https://apps.apple.com/us/app/stable-pev-theft-protection/id6446907426)
+
+This minor update fixes a bug that affected our identity verification flow on iOS via our third party identity verification provider.
+
+#### Bug Fixes :hammer_and_wrench:
+- [x] Fixed a bug that caused the **Verify Identity** process to crash when attempting to scan your ID. We've updated the library to be compatible with the latest version of MicroBlink.
+
+### v0.5.3
 
 This is a minor update that fixes a few important bugs, and implements points and token rewards for logging parking. Thanks to our amazing users for finding and reporting them! Stay tuned for new features in the next major update to the app. If you have feature suggestions, feel free to send them our way on Discord or on our feature suggestion board!
 
