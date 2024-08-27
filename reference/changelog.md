@@ -14,9 +14,21 @@ You can check your app's version number at the bottom of the Accounts and Settin
 
 ## Production
 
-### v0.5.4
+### v0.5.5
 
 [![](../static/buttons/google-play-button.png)](https://play.google.com/store/apps/details?id=com.stablemobility.stableapp) [![](../static/buttons/app-store-button.png)](https://apps.apple.com/us/app/stable-pev-theft-protection/id6446907426)
+
+#### New Features :new:
+- [x] **Request Account Deletion**: You can now request to have your account and account info deleted under the accounts tab in the app.
+
+#### Changes/Improvements :gear:
+- [x] **Removed Stable+**: Stable+ was an early idea to incentivize riders to map Stables, and optionally donate a small amount of money to us to maintain the app. We found that it caused some confusion with StableCare, and was largely unused. As such, we've decided to remove it entirely from the app.
+
+#### Bug Fixes :hammer_and_wrench:
+- [x] Fixed a bug that caused ID verification to crash on iOS
+- [x] Fixed a bug that sometimes caused the users phone verification to fail
+
+### v0.5.4
 
 This minor update fixes a bug that affected our identity verification flow on iOS via our third party identity verification provider.
 

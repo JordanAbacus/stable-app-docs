@@ -5,6 +5,12 @@ icon: plus-circle
 
 # What is Stable+?
 
+!!!warning **Removed**
+As of version [v0.5.5](../reference/changelog.md#v055), we've decided to remove Stable+ from the Stable App. 
+
+Stable+ was an early idea to incentivize riders to map Stables, and optionally donate a small amount of money to us to maintain the app. We found that it caused some confusion with StableCare, and was largely unused.
+!!!
+
 Stable+ is the "pro" membership within the Stable App. Stable+ Members have access to the ![](../static/icons/icon-nav-map-view.png) map view, which allows them to look for Stables that they and others have mapped.
 
 ## Stable+ Trial
