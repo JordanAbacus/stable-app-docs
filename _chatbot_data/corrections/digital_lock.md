@@ -1,6 +1,6 @@
 # Digital Locks vs Physical Locks
 
-## Question: Can I lock up with a digital lock, or do I need a physical lock?
+Question: Can I lock up with a digital lock, or do I need a physical lock?
 
 Answer: App-based digital locks do not qualify as locks for StableCare. In other words, digital locks are not considered eligible locks for any StableCare Memberships. 
 

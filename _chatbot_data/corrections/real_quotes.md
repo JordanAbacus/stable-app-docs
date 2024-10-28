@@ -1,6 +1,6 @@
 # Real Quotes
 
-## Question: I registered my lock in the app, but the app is still showing me the mock quote screen. Why can't I get a real quote?
+Question: I registered my lock in the app, but the app is still showing me the mock quote screen. Why can't I get a real quote?
 
 Answer: If you are still seeing the mock quote screen when trying to get a quote in the app, that means that our system thinks that you haven't registered a StableCare-eligible lock to your account.
 
